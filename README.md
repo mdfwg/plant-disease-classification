@@ -1,12 +1,3 @@
-mdfwg: make a good readme file to explain this repo
-- model is too large so you can download in this link: 
-- Code in ipynb for model building and training
-- streamlit app ..
-- etc
-
-also make an instruction on how to deploy the streamlit app
-
-Workspace: Collecting workspace information```markdown
 # Plant Disease Classification
 
 This repository contains a project for classifying plant diseases using deep learning. The project includes a trained Convolutional Neural Network (CNN) model, a Jupyter Notebook for model building and training, and a Streamlit app for deploying the model as a web application.
@@ -15,7 +6,7 @@ This repository contains a project for classifying plant diseases using deep lea
 
 1. **Model**:  
    The trained CNN model is too large to include in this repository. You can download the model file from the following link:  
-   [Download Model](https://example.com/download-model)
+   [Download Model](https://drive.google.com/file/d/1k3RBVwoWKi676wRsWck7bg9ND5aJkz5Y/view?usp=drive_link)
 
 2. **Code for Model Building and Training**:  
    The Jupyter Notebook [`AI Portfolio - Plant Disease Classification.ipynb`](AI%20Portfolio%20-%20Plant%20Disease%20Classification.ipynb) contains the code for:
